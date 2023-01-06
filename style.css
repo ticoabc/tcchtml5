@@ -62,7 +62,7 @@ body {
     color: #fff;
     font-size: 1.3em;
     font-weight: 700;
-    background-color: #c00000;
+    background-color: #00CED1;
     padding: 10px 40px;
     border: 2px solid #fff;
     border-radius: 25px;
@@ -130,7 +130,7 @@ label {
     position: fixed;
     top: 5px;
     right: 5px;
-    color: rgba(0, 0, 0, 0.5);
+    color: #00CED1;
 }
 
 nav ul {
@@ -150,7 +150,7 @@ nav ul {
 
 nav ul li {
     padding: 20px;
-    border-bottom: 1px solid #a9a9a9;
+    border-bottom: 1px solid #00CED1;
 }
 
 nav ul li a {
@@ -457,7 +457,7 @@ footer {
     }
 
     nav ul li a:hover {
-        color: #c00000;
+        color: #00CED1;
     }
 
     /* Sobre */
@@ -473,7 +473,7 @@ footer {
     }
 
     #destaqueSobre img {
-        border-radius: 50%;
+        border-radius: 5%;
         margin-top: 20px;
         margin-right: 50px;
         width: 150px;
