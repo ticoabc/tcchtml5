@@ -25,6 +25,7 @@ body {
 }
 
 .Flex {
+    background-color: rgb(24, 26, 27);
     display: flex;
     justify-content: space-between;
 }
@@ -79,7 +80,7 @@ body {
 /* Cartões */
 .Card {
     margin-top: 25px;
-    width: 350px;
+    width: 335px;
     /* dimensõe otimizadas para melhor desempenho */
     height: 500px;
     /* dimensõe otimizadas para melhor desempenho */
@@ -90,7 +91,7 @@ body {
 }
 
 .Card img {
-    margin-top: 5px;
+    margin-top: 3px;
     border-radius: 25px 25px 0px 0px;
 }
 
@@ -100,13 +101,14 @@ body {
 
 .Card p {
     text-align: left;
-    color: rgb(24, 26, 27);
+    color: #fff;
     padding: 10px 30px 50px 30px;
 }
 
 .Card a {
     padding: 10px 100px;
     border: 0;
+    border: 2px solid #fff;
 }
 
 /*Smartphone Portrait  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
@@ -187,7 +189,7 @@ main h2 {
 /* Sobre */
 #sobre {
     padding: 50px 0px;
-    background: url();
+    /*background: url();*/
     background-color: rgb(24, 26, 27);
     background-size: cover;
     background-position: center;
@@ -219,6 +221,8 @@ main h2 {
 
 /* One Page */
 #onepage {
+    background-color: rgb(24, 26, 27);
+    color: #fff;
     padding: 50px 10px;
 }
 
@@ -240,8 +244,9 @@ main h2 {
 
 /* Wireframe */
 #wireframe {
+    background-color: rgb(24, 26, 27);
+    color: #fff;
     padding: 50px 0px;
-    /*background: url(img/background.png);*/
     background-size: cover;
     background-position: center;
 }
@@ -271,6 +276,8 @@ main h2 {
 
 /* Conteúdo */
 #conteudo {
+    background-color: rgb(24, 26, 27);
+    color: #fff;
     padding: 50px 0px;
 }
 
@@ -337,6 +344,11 @@ footer {
 /*Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 576px) {
 
+    /* Cabeçalho*/
+    header {
+        background-color: rgb(24, 26, 27);
+    }
+
     /* Layout*/
     .Container {
         max-width: 540px;
@@ -369,6 +381,11 @@ footer {
 /*Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 768px) {
 
+    /* Cabeçalho*/
+    header {
+        background-color: rgb(24, 26, 27);
+    }
+
     /* Layout*/
     .Container {
         max-width: 720px;
@@ -391,7 +408,7 @@ footer {
     /*Sobre*/
     #sobre {
         padding: 50px 0px;
-        background: url(img/background.png);
+        /*background: url(img/background.png);*/
         background-size: cover;
     }
 
@@ -403,6 +420,12 @@ footer {
 
 /*Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 992px) {
+
+    /* Cabeçalho*/
+    header {
+        /*height: 100px;*/
+        background-color: rgb(24, 26, 27);
+    }
 
     /* Layout*/
     .Container {
@@ -464,8 +487,9 @@ footer {
 
     /* Sobre */
     #sobre {
-        background-attachment: fixed;
-        /* Fundo cinza fica fixo enquanto a página 
+        background-color: rgb(24, 26, 27);
+        /*background-attachment: fixed;
+         Fundo cinza fica fixo enquanto a página 
                                         é deslizada para cima ou baixo 
                                             Efeito Parallax*/
     }
