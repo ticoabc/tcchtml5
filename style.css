@@ -44,6 +44,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-evenly;
     /* Espaço uniforme entre os elementos */
+    background-color: rgb(24, 26, 27);
 }
 
 .Flex5 {
@@ -78,17 +79,18 @@ body {
 /* Cartões */
 .Card {
     margin-top: 25px;
-    width: 380px;
+    width: 350px;
     /* dimensõe otimizadas para melhor desempenho */
-    height: 550px;
+    height: 500px;
     /* dimensõe otimizadas para melhor desempenho */
-    background-color: #e8e8e8;
-    border: 1px solid #a1a1a1;
+    background-color: rgb(24, 26, 27);
+    border: 1px solid #fff;
     border-radius: 25px;
     text-align: center;
 }
 
 .Card img {
+    margin-top: 5px;
     border-radius: 25px 25px 0px 0px;
 }
 
