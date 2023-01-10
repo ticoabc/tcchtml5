@@ -33,6 +33,7 @@ body {
 .Flex2 {
     display: flex;
     align-items: center;
+    /*justify-content: space-between;*/
 }
 
 .Flex3 {
@@ -303,7 +304,7 @@ address {
     padding: 35px 10px 50px 10px;
     /* up - right - down - left */
     /*background: url(img/background2.png);*/
-    /*background-color: #000;*/
+    background-color: rgb(24, 26, 27);
     background-size: cover;
     background-position: center;
     color: #fff;
