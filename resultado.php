@@ -11,7 +11,7 @@ include_once "conexao.php";
     <title>SpotUp - Resultado</title>
     <meta name="description" content="Material educativo e informativo sobre energia solar residencial
          em um site moderno e responsivo.">
-    <link rel="icon" href="img/ico/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/ico/icone_orca.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -26,8 +26,8 @@ include_once "conexao.php";
                 <label for="check">&#9776;</label><!-- código para caractere especial -->
                 <ul>
                     <li><a href="index.html">Início</a></li>
-                    <li><a href="#conteudo">Conteúdo</a></li>
-                    <li><a href="#sobre">Financiamento</a></li>
+                    <li><a href="index.html">Conteúdo</a></li>
+                    <li><a href="index.html">Financiamento</a></li>
                     <li><a href="#contato">Contato</a></li>
                     <li><a href="#admin">Administrativo</a></li>
                 </ul>
@@ -38,7 +38,7 @@ include_once "conexao.php";
     <main>
         <div class="Container">
             <h1>SpotUp - Energia Solar</h1>
-            <!--<h3>Provendo informações para todos!</h3><br><br>-->           
+            <h3>Provendo informações para todos!</h3><br><br>
         </div>
     </main>
     <!-- Conteúdo -->

@@ -11,7 +11,7 @@ include_once "conexao.php";
     <meta name="description" 
         content="Material educativo e informativo sobre energia solar residencial
          em um site moderno e responsivo.">
-    <link rel="icon" href="img/ico/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/ico/icone_orca.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -27,7 +27,7 @@ include_once "conexao.php";
                 <ul>
                     <li><a href="index.html">Início</a></li>
                     <li><a href="simulador.php">Simulador</a></li>                    
-                    <li><a href="#sobre">Financiamento</a></li>                    
+                    <li><a href="index.html">Financiamento</a></li>                    
                     <li><a href="#admin">Administrativo</a></li>
                     <li><a href="#contato">Contato</a></li>
                     <li><a href="">Sobre</a></li>
