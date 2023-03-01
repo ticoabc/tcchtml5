@@ -1,11 +1,12 @@
 <?php
-include_once("conectadmin.php");
 session_start();
+include_once("conectadmin.php");
+
 if(!empty($_SESSION['id'])){
 	echo "Olá ".$_SESSION['nome'].", Bem vindo!! <br>";
 	echo "Cadastrar  novo usuário  >>>>>  <a href='cadastrar.php'> clique aqui  </a><br>";
 	echo "Cadastro Instaladores    >>>>>>  <a href='cadastrar_insta_2.php'> clique aqui  </a><br>";
-	echo "Instaladores Cadastrados >>>><a href='consulta_insta_2.php'> Relatório </a> ";
+	echo "Instaladores Cadastrados >>>>>> <a href='consulta_insta_2.php'> Relatório </a> ";
 	echo "<br><a href='sair.php'> Sair</a>";
 }else{
 	$_SESSION['msg'] = "Área restrita";

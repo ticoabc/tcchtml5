@@ -29,7 +29,7 @@ include_once "conexao.php";
                     <li><a href="index.html">Conteúdo</a></li>
                     <li><a href="index.html">Financiamento</a></li>
                     <li><a href="#contato">Contato</a></li>
-                    <li><a href="#admin">Administrativo</a></li>
+                    <li><a href="index.html">Administrativo</a></li>
                 </ul>
             </nav>
         </div>

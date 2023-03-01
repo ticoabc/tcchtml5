@@ -82,11 +82,11 @@ session_start();
 		
 		//Limitar os link antes depois
 		$max_links = 2;
-		echo "<a href='index.php?pagina=1'>Primeira</a> ";
+		echo "<a href='index.html?pagina=1'>Primeira</a> ";
 		
 		for($pag_ant = $pagina - $max_links; $pag_ant <= $pagina - 1; $pag_ant++){
 			if($pag_ant >= 1){
-				echo "<a href='index.php?pagina=$pag_ant'>$pag_ant</a> ";
+				echo "<a href='index.html?pagina=$pag_ant'>$pag_ant</a> ";
 			}
 		}
 			
@@ -94,10 +94,10 @@ session_start();
 		
 		for($pag_dep = $pagina + 1; $pag_dep <= $pagina + $max_links; $pag_dep++){
 			if($pag_dep <= $quantidade_pg){
-				echo "<a href='index.php?pagina=$pag_dep'>$pag_dep</a> ";
+				echo "<a href='index.html?pagina=$pag_dep'>$pag_dep</a> ";
 			}
 		}		
-		echo "<a href='index.php?pagina=$quantidade_pg'>Ultima</a>";
+		echo "<a href='index.html?pagina=$quantidade_pg'>Ultima</a>";
 		echo "</center>";
 		?>
 	</body>

@@ -28,9 +28,9 @@ include_once "conexao.php";
                     <li><a href="index.html">Início</a></li>
                     <li><a href="simulador.php">Simulador</a></li>                    
                     <li><a href="index.html">Financiamento</a></li>                    
-                    <li><a href="#admin">Administrativo</a></li>
+                    <li><a href="index.html">Administrativo</a></li>
                     <li><a href="#contato">Contato</a></li>
-                    <li><a href="">Sobre</a></li>
+                    <li><a href="index.html">Sobre</a></li>
                 </ul>
             </nav>
         </div>
