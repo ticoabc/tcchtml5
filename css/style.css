@@ -95,11 +95,32 @@ body {
     border-radius: 25px;
 }
 
+/*24/03/22*/
+/* Coluna entrada de dados */
+.column1 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 610px;
+    /* Should be removed. Only for demonstration */
+    color: #ffff;
+    font-family: Whitney, sans-serif;
+    background-color: rgb(24, 26, 27);
+}
+
 /* topo do site */
 #topo {
     position: fixed;
     right: 10px;
     bottom: 10px;
+}
+
+/*24/03/23*/
+/* topo do site */
+#topo1 {
+    position: fixed;
+    right: 10px;
+    bottom: 1px;
 }
 
 /* Cartões */
@@ -131,6 +152,44 @@ body {
 }
 
 .Card a {
+    padding: 10px 100px;
+    border: 0;
+    border: 2px solid #fff;
+}
+
+/*22/03/22*/
+.Card2 {
+    margin-top: 25px;
+    width: 200px;
+    /* dimensõe otimizadas para melhor desempenho */
+    height: 350px;
+    /* dimensõe otimizadas para melhor desempenho */
+    background-color: rgb(24, 26, 27);
+    border: 1px solid #fff;
+    border-radius: 25px;
+    text-align: center;
+}
+
+/*22/03/22*/
+.Card2 img {
+    margin-top: 3px;
+    border-radius: 25px 25px 0px 0px;
+}
+
+/*22/03/22*/
+.Card2 h3 {
+    margin-top: 15px;
+}
+
+/*22/03/22*/
+.Card2 p {
+    text-align: center;
+    color: #fff;
+    padding: 10px 30px 50px 30px;
+}
+
+/*22/03/22*/
+.Card2 a {
     padding: 10px 100px;
     border: 0;
     border: 2px solid #fff;
@@ -207,6 +266,33 @@ main h1 {
 }
 
 main h2 {
+    font-size: 1em;
+    margin: 20px 0px 50px 0px;
+}
+
+/*24/03/22*/
+/* Destaque */
+.main {
+    height: 50vh;
+    /* Equiale a 75% da tela independente do dispositivo */
+    /*background: url(img/redim_background.jpg);*/
+    background-color: rgb(24, 26, 27);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+/*24/03/22*/
+.main h1 {
+    font-size: 1em;
+}
+
+/*24/03/22*/
+.main h2 {
     font-size: 1em;
     margin: 20px 0px 50px 0px;
 }

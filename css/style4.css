@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    margin: 0;
+    background-color: rgb(24, 26, 27);
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    /*min-height: 100vh;*/
+}
+
+.container {
+    background-color: rgb(24, 26, 27);
+    width: 80%;
+}
+
+.box {
+    background-color: rgb(24, 26, 27);
+    color: #ffff;
+    padding: 15px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Style the header */
+.header {
+    background-color: rgb(24, 26, 27);
+    color: #ffff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #ffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Clear floats after the columns */
+.container::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#botaoCalcular {
+    margin: 0 auto;
+    margin-block: 20px;
+    width: 40%;
+    text-align: center;
+}
+
+.form-group {
+    background-color: rgb(24, 26, 27);
+    color: #ffff;
+}
+
+.form-control {
+    margin-bottom: 5px;
+    background-color: rgb(24, 26, 27);
+    color: #ffff;
+}
+
+input:focus {
+    background-color: #ffff;
+    color: #ffff;
+}
+
+input:hover {
+    background-color: white;
+    color: rgb(24, 26, 27);
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+    .container {
+        width: 100%;
+    }
+}
