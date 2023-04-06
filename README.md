@@ -16,7 +16,7 @@
 <br>Um simulador de financiamento do sistema
 </p>
 
-Projeto desenvolvido durante o curso de Informática para Negócios na <a href="https://fatecsbc.edu.br/2020/">Faculdade de Tecnologia de São Bernardo do Campo “Adib Moisés Dib”</a> onde o conteúdo ficará disponível aqui.
+Projeto desenvolvido durante o curso de Informática para Negócios na <a href="https://fatecsbc.edu.br/2020/" target="_blank">Faculdade de Tecnologia de São Bernardo do Campo “Adib Moisés Dib”</a> onde o conteúdo ficará disponível aqui.
 
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/"></a>
