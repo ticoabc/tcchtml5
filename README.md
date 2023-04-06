@@ -24,20 +24,23 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 :iphone: Mobile
 :computer: Desktop
 
-## 🛠 Técnicas e Tecnologias utilizadas
-<p align="left">
-  
-- ``PHP``
-- ``HTML5``
-- ``Java Script``
-- ``CSS3``
-- ``SQL``
-- ``VS Code``
-- ``WAMPPSERVER``
-- ``PHP MYyAdmin``
-</p>
+# 🛠 Ferramentas
+  ## 🛠 Linguagens utilizadas
+  <p align="left">
+    - ``PHP``
+    - ``HTML5``
+    - ``Java Script``
+    - ``CSS3``
+    - ``SQL``
+  </p>
+  ## 🛠 Tecnologias utilizadas
+  <p align="left">
+  - ``VS Code``
+  - ``WAMPPSERVER``
+  - ``PHP MYyAdmin``
+  </p>
 
-## Autor🚀
+# Autor🚀
 
 
 Feito por Tiago de Freitas 👋🏽 Entre em contato!
