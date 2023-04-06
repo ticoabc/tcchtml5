@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/stars/ticoabc?style=social"/>
 </p>
 
-## Descrição do Projeto
+# :computer: Descrição do Projeto
 <p align="left">O projeto consiste em uma página web onde o usuário terá as informações necessárias para compreender sobre a energia solar fotovoltaica, mais detalhadamente a residencial.</p>
 <p align="left">As pessoas poderão buscar informações através de cards na tela onde será redirecionado a links com videos explicativos.</p>
 
@@ -18,15 +18,36 @@
 
 Projeto desenvolvido durante o curso de Informática para Negócios na <a href="https://fatecsbc.edu.br/2020/" target="_blank">Faculdade de Tecnologia de São Bernardo do Campo “Adib Moisés Dib”</a> onde o conteúdo ficará disponível aqui.
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/"></a>
-</h1>
-<p align="center">🚀 </p>
+
+# :art: Layout
+<p align="left">O layout da aplicação é responsivo e se adapta em vários dispositivos</p>
+:iphone: Mobile
+:computer: Desktop
+
+### 🛠 Tecnologias
+<p align="left">
+As seguintes ferramentas foram usadas na construção do projeto:
+- [PHP](https://www.php.net/)
+- [HTML5](https://www.w3c.br/Padroes/)
+- [CSS3](https://www.w3schools.com/css/)
+- [Java Script](https://www.javascript.com/)
+</p>
 
 
 
 
 
+
+
+
+
+### Autor🚀
+
+
+Feito por Tiago de Freitas 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodefreitas/)](https://www.linkedin.com/in/tiagodefreitas/) 
+[![Gmail Badge](https://img.shields.io/badge/-tiagoabc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoabc@gmail.com)](mailto:tiagoabc@gmail.com)
 
 
 
