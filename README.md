@@ -25,7 +25,6 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 :computer: Desktop
 
 # 🛠 Ferramentas
-  ## 🛠 Linguagens utilizadas
   <p align="left">
     - ``PHP``
     - ``HTML5``
@@ -33,7 +32,6 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
     - ``CSS3``
     - ``SQL``
   </p>
-  ## 🛠 Tecnologias utilizadas
   <p align="left">
   - ``VS Code``
   - ``WAMPPSERVER``
