@@ -46,7 +46,7 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 
 Feito por Tiago de Freitas 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodefreitas/)](https://www.linkedin.com/in/tiagodefreitas/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodefreitas/)](https://www.linkedin.com/in/tiagodefreitas/) 
 [![Gmail Badge](https://img.shields.io/badge/-tiagoabc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoabc@gmail.com)](mailto:tiagoabc@gmail.com)
 
 
