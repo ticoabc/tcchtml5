@@ -1,10 +1,12 @@
 # SpotUp - Energia Solar
 <p align="center">
+
 <img src="https://img.shields.io/github/languages/count/ticoabc/tcchtml5"/>
 <img src="https://img.shields.io/bower/l/MI"/>
 <img src="https://img.shields.io/github/repo-size/ticoabc/tcchtml5"/>
 <img src="https://img.shields.io/github/last-commit/ticoabc/tcchtml5"/>
-<img src="https://img.shields.io/github/stars/ticoabc?style=social"/>
+<img src="https://img.shields.io/github/stars/ticoabc?style=social"/><br>
+:sunny:  Projeto finalizado  :sunny:
 </p>
 
 # :computer: Descrição do Projeto
