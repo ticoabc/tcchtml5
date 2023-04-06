@@ -24,7 +24,7 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 :iphone: Mobile
 :computer: Desktop
 
-### 🛠 Técnicas e Tecnologias utilizadas
+## 🛠 Técnicas e Tecnologias utilizadas
 <p align="left">
   
 - ``PHP``
@@ -37,15 +37,7 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 - ``PHP MYyAdmin``
 </p>
 
-
-
-
-
-
-
-
-
-### Autor🚀
+## Autor🚀
 
 
 Feito por Tiago de Freitas 👋🏽 Entre em contato!
