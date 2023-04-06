@@ -1,4 +1,8 @@
 # SpotUp - Energia Solar
+![descrição da imagem]("https://pasteboard.co/GjJcc14XIMPx.jpg")
+<h1 align="center">
+    <img alt="SpotUp" title="#SpotUp" src="https://pasteboard.co/GjJcc14XIMPx.jpg" />
+</h1>
 <p align="center">
 <img src="https://img.shields.io/github/languages/count/ticoabc/tcchtml5"/>
 <img src="https://img.shields.io/bower/l/MI"/>
