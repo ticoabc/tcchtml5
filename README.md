@@ -26,16 +26,19 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 
 # 🛠 Ferramentas
   <p align="left">
-    - ``PHP``
-    - ``HTML5``
-    - ``Java Script``
-    - ``CSS3``
-    - ``SQL``
-  </p>
-  <p align="left">
-  - ``VS Code``
-  - ``WAMPPSERVER``
-  - ``PHP MYyAdmin``
+  <p align="left"> 
+  <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/html5/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css3/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/vscode/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="mysql" width="40" height="40"/></a>
   </p>
 
 # Autor🚀
