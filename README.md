@@ -24,13 +24,17 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 :iphone: Mobile
 :computer: Desktop
 
-### 🛠 Tecnologias
+### 🛠 Técnicas e Tecnologias utilizadas
 <p align="left">
-As seguintes ferramentas foram usadas na construção do projeto:
-- [PHP](https://www.php.net/)
-- [HTML5](https://www.w3c.br/Padroes/)
-- [CSS3](https://www.w3schools.com/css/)
-- [Java Script](https://www.javascript.com/)
+  
+- ``PHP``
+- ``HTML5``
+- ``Java Script``
+- ``CSS3``
+- ``SQL``
+- ``VS Code``
+- ``WAMPPSERVER``
+- ``PHP MYyAdmin``
 </p>
 
 
