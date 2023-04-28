@@ -26,6 +26,14 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 :iphone: Mobile
 :computer: Desktop
 
+
+## Layout mobile :iphone:
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+## Layout web :computer:
+![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+
+
 # 🛠 Ferramentas
   <p align="left">
   <p align="left"> 
