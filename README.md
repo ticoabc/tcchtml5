@@ -33,6 +33,18 @@ Projeto desenvolvido durante o curso de Informática para Negócios na <a href="
 ## Layout web :computer:
 ![Web 1](https://github.com/ticoabc/tcchtml5/blob/main/frontweb.JPG)
 
+# Tecnologias utilizadas
+## Back end
+- PHP
+- JS
+## Front end
+- HTML5 / CSS3 / JS
+## Implantação em produção
+- Back end: GitHub Pages
+- Front end web: GitHub Pages
+- Banco de dados: Mysql / PhpMyAdmin
+## IDE
+- VS Code
 
 # 🛠 Ferramentas
   <p align="left">
