@@ -137,7 +137,7 @@
             //echo "<br><br><center>";
                 echo "<br><br><table width=100%; border=0;  border-collapse: collapse; style=color:white; text-align:left>";
                     echo "<tr style=text-align:left>";
-                        echo "<th>Olá ".$_SESSION['nome'].", Bem vindo </th>";
+                        echo "<th>Olá ".$_SESSION['nome'].", Bem vindo!!! </th>";
                         echo "<th colspan=2></th>";
                             echo "<tr style=text-align:left>";
                             echo "</tr>";
